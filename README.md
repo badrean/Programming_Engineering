@@ -2,5 +2,5 @@
 Laboratory exercises for the course of Programming Engineering
 
 Team:
-  Bilba Adrian-Paul
+  Bilba Adrian-Paul,
   Iurascu Vasile
